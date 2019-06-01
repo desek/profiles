@@ -1,0 +1,15 @@
+// Place your key bindings in this file to overwrite the defaults
+[
+    {
+        "key": "f8",
+        "command": "workbench.action.terminal.runSelectedText"
+    },
+    {
+        "key": "cmd+[Semicolon]",
+        "command": "workbench.action.terminal.toggleTerminal"
+    },
+    {
+        "key": "ctrl+shift+[Equal]",
+        "command": "-workbench.action.terminal.toggleTerminal"
+    }
+]
